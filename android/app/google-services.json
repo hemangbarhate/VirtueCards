@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633208272253",
+    "project_id": "visitingcards-ffa4c",
+    "storage_bucket": "visitingcards-ffa4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633208272253:android:a6732a67edc092535d4814",
+        "android_client_info": {
+          "package_name": "com.example.visiting_cards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633208272253-msa9nja7kq9q2c9fu60eav2a3cmj73k4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB009ms0LT7AJhzPwBv7LF2DP1xfP_hxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633208272253-msa9nja7kq9q2c9fu60eav2a3cmj73k4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
